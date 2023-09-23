@@ -1,2 +1,2 @@
 # weatherapi
-weather web using public api
+weather web using api
