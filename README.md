@@ -2,7 +2,7 @@
 
 ### 🔗 Link
 
-[GitHub Repository](https://github.com/your-username/weather-app)
+[세계 날씨 정보 검색](https://gowildyj.github.io/weather_city_search/)
 
 ---
 ### 📘 Overview
@@ -33,9 +33,9 @@
 
 ---
 
-![스크린샷]([https://example.com/weather-app-screenshot.png](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.41.png%3Fraw%3Dtrue?table=block&id=a5f1525e-f4d4-4856-b549-f20c0c6045e3&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=2000&userId=&cache=v2)https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.41.png%3Fraw%3Dtrue?table=block&id=a5f1525e-f4d4-4856-b549-f20c0c6045e3&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)
-![스크린샷]([https://example.com/weather-app-screenshot.png](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.51.png%3Fraw%3Dtrue?table=block&id=ff919565-9ed6-4906-9fd4-8b11dd06d091&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.51.png%3Fraw%3Dtrue?table=block&id=ff919565-9ed6-4906-9fd4-8b11dd06d091&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=2000&userId=&cache=v2)
-![스크린샷]([https://example.com/weather-app-screenshot.png](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.47.22.png%3Fraw%3Dtrue?table=block&id=3d650880-7b49-446a-b867-30aeec1bf72d&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=2000&userId=&cache=v2)https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.47.22.png%3Fraw%3Dtrue?table=block&id=3d650880-7b49-446a-b867-30aeec1bf72d&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)
+![스크린샷1](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.41.png%3Fraw%3Dtrue?table=block&id=a5f1525e-f4d4-4856-b549-f20c0c6045e3&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)
+![스크린샷](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.46.51.png%3Fraw%3Dtrue?table=block&id=ff919565-9ed6-4906-9fd4-8b11dd06d091&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)
+![스크린샷](https://river-chestnut-544.notion.site/image/https%3A%2F%2Fgithub.com%2Fgowildyj%2Fimages%2Fblob%2Fmain%2Fweather%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.47.22.png%3Fraw%3Dtrue?table=block&id=3d650880-7b49-446a-b867-30aeec1bf72d&spaceId=71091ee2-273a-406b-a41b-24b2e15c6f80&width=500&userId=&cache=v2)
 
 ---
 
